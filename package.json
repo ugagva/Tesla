@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.4",
+    "jit": "^0.1.1"
+  }
+}
